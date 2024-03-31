@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<games xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="mzzt:knight:modinfocache">
+  <game name="Dark Forces">
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="1RMWNDR" name="DarthDoctor's &quot;One Room Wonder&quot;" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="3DMAD" name="3D-Mad" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="A&amp;D" name="Armed and Dangerous" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ACADEMY" name="Imperial Academy" lfd="ACADEMY.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ADJOIN" name="Adjoin Ideas" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ADJ_DOOR" name="Magical Mystery Door" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ADVINF" name="Advanced INF" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ALDERAAN" name="Siege at Alderaan, The" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ANCHOR" name="Anchor Hed: Tusken Raid Mini Level" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ARC2" name="Operation Archangel 2: Special Edition" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ARCMP" name="Operation Archangel" lfd="ARCMP.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ARC_HUNT" name="Hunt for the Arc Hammer, The" lfd="ARC_HUNT.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ARROARA" name="Training on Arroara" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ASSASSIN" name="Assassination at Nar Shaddaa - Boba Fett Episode 1" lfd="ASSASSIN.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ASSAULT" name="Assault: Fortess Dantooine" lfd="ASSAULT.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ASTEROID" name="Asteroid" lfd="ASTEROID.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BARRY" name="Barry Brien's One Room Wonder" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BARSBASE" name="Barry Brien's Secret Base Remake" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BESPIN" name="Bespin: Reclaiming Cloud City" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BETRAYED" name="Betrayed" lfd="BETRAYBR.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BFREVNGE" name="Boba Fett's Revenge" lfd="BFREVNGE.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BGLORY" name="Beyond Glory" lfd="BGLORY.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BGLORY2" name="Beyond Glory 2" lfd="BGLORY2.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BHDFDEMO" name="Big Head Dark Forces SECBASE DEMO" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BIOHAZRD" name="Operation: Chemical Warfare Facility" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BLACKSUN" name="Second Clone War III, The: Black Sun" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BOING" name="BOING!" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BOUNEW" name="Bounty Hunt SE, The" lfd="BOUNTY2.LFD" xmlns="">
+        <other>BOUNEW1.LFD</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="BRIDGES" name="Bridges Over A Puddle Of Water" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="C-ROADS" name="Crossroads TC Demo" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="CAKEWALK" name="Operation Cakewalk: Kyle Likes Cake" xmlns="">
+        <other>CAKECUT.LFD</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="CC3SPICE" name="Kyle on Spice" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="CLOSET" name="Closet of Doom, The" lfd="CLOSET.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="COND-RED" name="Condition Red" lfd="COND-RED.LFD" xmlns="">
+        <other>COND-CUT.LFD</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="COOBER" name="Coober" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="CRYSTAL2" name="Jedi Crystal Level 1 Beta Test" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="CSPEAR1" name="Cloudspear: Part I - The Ghosts of Takyr" lfd="CSPEAR1.LFD" xmlns="">
+        <other>CLOUDSP1.LFD</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DANGROOM" name="Danger Room" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DBK" name="The Defection of Bez Kuahn" lfd="DBK.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DEFBASE" name="TIE Defender Base" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DEMO" name="Demo Ship" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DEMO1" name="Demo 1" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DEMO2" name="Demo 2" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DEMO3" name="Demo 3" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DEMO4" name="Demo 4" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DEMO5" name="Demo 5" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DEMO6" name="Demo 6" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DEMO7" name="Demo 7" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DEPOT" name="Destroy Imperial Supply Depot" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DET" name="Detention Base Demo" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DETPATCH" name="Thermal Detonator Patch" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DF96" name="DF96: The Ties That Bind" lfd="DF96.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DON-DF42" name="Don-DF42" lfd="DONS.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DPRELUDE" name="Dark Prelude" lfd="DP.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DSIEGE" name="Dark Siege, The" lfd="DSIEGE.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DT1SE" name="Dark Tide, The: Episode 1 (SE) - Wasteland Survivor" lfd="DT1BRIEF.LFD" xmlns="">
+        <other>DTIDE1.LFD</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DT3TEST" name="Dark Tide, The: Episode 3 (Alpha Test)" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DT3TEST2" name="Dark Tide, The: Beyond the Ancient Mod - Space Station Demo" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DTIDE2" name="Dark Tide, The: Episode 2 - Nightfall" lfd="DT2BRIEF.LFD" xmlns="">
+        <other>DTIDE2.LFD</other>
+        <other>MWAIT.PAL</other>
+        <other>MWAIT.BM</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DTIDE3" name="Dark Tide, The: Episode 3 - Eye of the Empire" lfd="DT3BRIEF.LFD" xmlns="">
+        <other>DTIDE3.LFD</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="DTIDE4" name="Dark Tide, The: Episode 4 - Empire" lfd="DTIDE4.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="EASTER" name="Easter Attack" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ELEVTRIG" name="Elevator Trigger Demo" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ENERGY" name="Energy" lfd="ENERGY.LFD" crawl="ENERGY2.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ESCAPE" name="Escape from Hoth" xmlns="">
+        <other>CUTSCENE.LST</other>
+        <other>BRIEFING.LST</other>
+        <other>WAIT.BM</other>
+        <other>WAIT.PAL</other>
+        <other>HOTH.LFD</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="EVAC" name="Evacuation of Hoth, The" lfd="EVAC.LFD" crawl="EVAC.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="EXAR" name="Exarvutor, The" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="EXECUTE" name="Execution, The" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="FREEZE" name="Freeze!" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="FOLLOW" name="Follow Me!" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="FOLLOWME" name="Follow Me Too!" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="FORTQUAD" name="Fortress Quadrigon" lfd="FORTQUAD.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="FREEKELL" name="Free Kelly" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="FTHRAWN" name="Fall of Thrawn, The" xmlns="">
+        <other>FTHRAWN.LFD</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="FUTURE1" name="Future Present Part 1/3" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="FUTURE2" name="Future Present Part 2/3" lfd="FUTURE2.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="GARDEN" name="Seasons Changing Fast!" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="GOLDEN" name="Goldeneye TC" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="GREATESC" name="Great Escape, The" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="GSENTRY" name="Geoffrey Simpson's One Room Wonder" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="HARKOV" name="Prelude to Harkov's Defection" lfd="HARKOV.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="HOERBY3" name="Hoerby Trilogy" lfd="HOERBY3.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="HOTEL" name="Lahara Hotel" lfd="HOTEL.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ICEWLD20" name="Ice World 2.0" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="INFIL-LB" name="Infiltrate Laboratory" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="INFTIPZ" name="INF Tipz" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="INTRUDER" name="Intruder" lfd="INTRUDER.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="IOUTPOST" name="Critak Moon: The Imperial Outpost" lfd="IOUTPOST.LFD" crawl="IOUTTXCR.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="IRONFORT" name="Discovery at Ironfort" lfd="IRONFORT.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="JEFFBASE" name="Jeff 42's Secret Base Remake" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="JUNGLES" name="Jungles of Cauldoun" lfd="CALD_BRF.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="KEYAN" name="Farlander's First Mission" lfd="KEYANBRF.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="KILVADER" name="Assassinate Darth Vader" lfd="KILVADER.LFD" xmlns="">
+        <other>GROMAS1.GMD</other>
+        <other>GROMAS2.GMD</other>
+        <other>ROBOT1.GMD</other>
+        <other>ROBOT2.GMD</other>
+        <other>CLOSCRED.GMD</other>
+        <other>VADCUT.LFD</other>
+        <other>CUTSCENE.LST</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="LEVEL1" name="Jedi Crystal Level 1" xmlns="">
+        <other>JEDI.LVL</other>
+        <other>TEXT.MSG</other>
+      </mod>
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="LIBRARY" name="Library, The" lfd="LIBRARY.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="MANTELL" name="Ord Mantell (Unfinished)" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="MORPH" name="Morph Me Up" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="MOUNT" name="Mountains of Relion, The" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="MTKUREK" name="Second Clone War I, The: Mt. Kurek" lfd="KUREK.LFD" crawl="KUREKTXT.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="NABCORE" name="Naboo Reactor Core" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="NERV" name="Operation Nervous Breakdown v1.1" lfd="NERV.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="NEWBOSS" name="New Boss" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="NIGHT" name="Kyle's Nightmare" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="NITEHAWK" name="Operation Nitehawk" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="NOSHOOT" name="No Shooting" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="NTK_SB" name="Nottheking's Secret Base Remake" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="OPEN" name="Open Project - 2003/08/17" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="OPZEROX" name="Operation: Zero X" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ORRETURN" name="Omega Red: The Return" lfd="ORRETURN.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ORW" name="One Room Wonders - Freefall" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="OUTBASE" name="OutBase" lfd="OUTBASE.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="OVARID" name="Raid on the Ovarid" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="PALACE" name="Dark Tide, The: Beyond the Ancient Mod - Unedited Xizor's Palace" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="PARUX" name="Energy Mine on Parux" lfd="PARUX.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="PERPLEX" name="Perplexion" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="PLAYER" name="Multiple Players" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="PROPHECY" name="Prophecy" lfd="PROPHECY.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="RELIC" name="Relics of the Empire" lfd="RELIC.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="REUNION" name="Reunion" lfd="REUNION.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="REUNION2" name="Reunion2" lfd="REUNION2.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="REVISED" name="Revised" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="ROCK" name="Rock, The: Episode I - Gandolo IV" lfd="ROCK.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="RUINS" name="Ruins of Talos" lfd="RUINSBRF.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="RYAN" name="Coruscant - The Imperial Capital" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="SECBASE" name="Barry Brien's Secret Base Remake" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="SECREV01" name="Secbase Revisited" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="SENSATIO" name="Sensation" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="SHOWDOWN" name="Dark Trooper Showdown" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="SKI" name="Ski Attack" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="SKYPOD" name="Dark Tide, The: Beyond the Ancient Mod - SKYPOD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="SPACE" name="Imperial Spacestation B-24" lfd="SPACE.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="SPACSTAT" name="Space Station" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="STARDEST" name="Operation Star Destroyer" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="STARSEND" name="Star's End - The Cloak" lfd="STARSEND.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="STRANGE" name="Strange" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="STRETCH" name="Manipulating Textures with INF" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="TANIS" name="Outpost Tanis Van" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="TBFACTOR" name="Beelzebub Factor, The (Unfinished)" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="TERMINAT" name="Terminate Boba Fett" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="TESTLEVL" name="Test Level" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="THECLUB" name="Dark Tide, The: Beyond the Ancient Mod - Coruscant Club" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="TMOTMW" name="Mystery of the Morning Wood, The" lfd="TMOTMW.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="TREE" name="Tree, The" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="TRITON" name="Triton Spaceport" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="TUTOR001" name="Tutorial Level" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="TWRDOOM" name="The Tower of Doom" lfd="TWRDOOM.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="UNDER" name="Under Fire" lfd="UNDER.LFD" crawl="UNDERTXT.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="VUE-TEST" name="Moving Turrets" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="WASTE" name="Waste" lfd="WASTE.LFD" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="WATCH" name="Watch This!" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="WATRHUNT" name="Great Tatooine Water Hunt, The" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="WILLOT" name="Rescue Willot" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="XIZORS" name="Dark Tide, The: Beyond the Ancient Mod - Xizor's Palace" xmlns="" />
+    </modtype>
+    <modtype type="MZZT.Knight.Games.DarkForcesModInfo">
+      <mod uid="YAVIN" name="Back to Yavin" lfd="YAVIN1.LFD" xmlns="">
+        <other>YAVIN2.LFD</other>
+      </mod>
+    </modtype>
+  </game>
+</games>

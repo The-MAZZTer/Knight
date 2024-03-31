@@ -1,0 +1,969 @@
+{
+	"darkForces": {
+		"1RMWNDR": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "DarthDoctor's \"One Room Wonder\""
+		},
+		"3DMAD": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "3D-Mad"
+		},
+		"A&D": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Armed and Dangerous"
+		},
+		"ACADEMY": {
+			"lfd": "ACADEMY.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Imperial Academy"
+		},
+		"ADJOIN": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Adjoin Ideas"
+		},
+		"ADJ_DOOR": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Magical Mystery Door"
+		},
+		"ADVINF": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Advanced INF"
+		},
+		"ALDERAAN": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Siege at Alderaan, The"
+		},
+		"ANCHOR": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Anchor Hed: Tusken Raid Mini Level"
+		},
+		"ARC2": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Operation Archangel 2: Special Edition"
+		},
+		"ARCMP": {
+			"lfd": "ARCMP.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Operation Archangel"
+		},
+		"ARC_HUNT": {
+			"lfd": "ARC_HUNT.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Hunt for the Arc Hammer, The"
+		},
+		"ARROARA": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Training on Arroara"
+		},
+		"ASSASSIN": {
+			"lfd": "ASSASSIN.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Assassination at Nar Shaddaa - Boba Fett Episode 1"
+		},
+		"ASSAULT": {
+			"lfd": "ASSAULT.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Assault: Fortess Dantooine"
+		},
+		"ASTEROID": {
+			"lfd": "ASTEROID.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Asteroid"
+		},
+		"BARRY": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Barry Brien's One Room Wonder"
+		},
+		"BARSBASE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Barry Brien's Secret Base Remake"
+		},
+		"BESPIN": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Bespin: Reclaiming Cloud City"
+		},
+		"BETRAYED": {
+			"lfd": "BETRAYBR.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Betrayed"
+		},
+		"BFREVNGE": {
+			"lfd": "BFREVNGE.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Boba Fett's Revenge"
+		},
+		"BGLORY": {
+			"lfd": "BGLORY.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Beyond Glory"
+		},
+		"BGLORY2": {
+			"lfd": "BGLORY2.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Beyond Glory 2"
+		},
+		"BHDFDEMO": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Big Head Dark Forces SECBASE DEMO"
+		},
+		"BIOHAZRD": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Operation: Chemical Warfare Facility"
+		},
+		"BLACKSUN": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Second Clone War III, The: Black Sun"
+		},
+		"BOING": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": null
+		},
+		"BOUNEW": {
+			"lfd": "BOUNTY2.LFD",
+			"crawl": null,
+			"others": [
+				"BOUNEW1.LFD"
+			],
+			"name": "Bounty Hunt SE, The"
+		},
+		"BRIDGES": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Bridges Over A Puddle Of Water"
+		},
+		"C-ROADS": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Crossroads TC Demo"
+		},
+		"CAKEWALK": {
+			"lfd": null,
+			"crawl": null,
+			"others": [
+				"CAKECUT.LFD"
+			],
+			"name": "Operation Cakewalk: Kyle Likes Cake"
+		},
+		"CC3SPICE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Kyle on Spice"
+		},
+		"CLOSET": {
+			"lfd": "CLOSET.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Closet of Doom, The"
+		},
+		"COND-RED": {
+			"lfd": "COND-RED.LFD",
+			"crawl": null,
+			"others": [
+				"COND-CUT.LFD"
+			],
+			"name": "Condition Red"
+		},
+		"COOBER": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Coober"
+		},
+		"CRYSTAL2": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Jedi Crystal Level 1 Beta Test"
+		},
+		"CSPEAR1": {
+			"lfd": "CSPEAR1.LFD",
+			"crawl": null,
+			"others": [
+				"CLOUDSP1.LFD"
+			],
+			"name": "Cloudspear: Part I - The Ghosts of Takyr"
+		},
+		"DANGROOM": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Danger Room"
+		},
+		"DBK": {
+			"lfd": "DBK.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "The Defection of Bez Kuahn"
+		},
+		"DEFBASE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "TIE Defender Base"
+		},
+		"DEMO": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Demo Ship"
+		},
+		"DEMO1": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Demo 1"
+		},
+		"DEMO2": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Demo 2"
+		},
+		"DEMO3": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Demo 3"
+		},
+		"DEMO4": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Demo 4"
+		},
+		"DEMO5": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Demo 5"
+		},
+		"DEMO6": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Demo 6"
+		},
+		"DEMO7": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Demo 7"
+		},
+		"DEPOT": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Destroy Imperial Supply Depot"
+		},
+		"DET": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Detention Base Demo"
+		},
+		"DETPATCH": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Thermal Detonator Patch"
+		},
+		"DF96": {
+			"lfd": "DF96.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "DF96: The Ties That Bind"
+		},
+		"DON-DF42": {
+			"lfd": "DONS.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Don-DF42"
+		},
+		"DPRELUDE": {
+			"lfd": "DP.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Dark Prelude"
+		},
+		"DSIEGE": {
+			"lfd": "DSIEGE.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Dark Siege, The"
+		},
+		"DT1SE": {
+			"lfd": "DT1BRIEF.LFD",
+			"crawl": null,
+			"others": [
+				"DTIDE1.LFD"
+			],
+			"name": "Dark Tide, The: Episode 1 (SE) - Wasteland Survivor"
+		},
+		"DT3TEST": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Dark Tide, The: Episode 3 (Alpha Test)"
+		},
+		"DT3TEST2": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Dark Tide, The: Beyond the Ancient Mod - Space Station Demo"
+		},
+		"DTIDE2": {
+			"lfd": "DT2BRIEF.LFD",
+			"crawl": null,
+			"others": [
+				"DTIDE2.LFD",
+				"MWAIT.PAL",
+				"MWAIT.BM"
+			],
+			"name": "Dark Tide, The: Episode 2 - Nightfall"
+		},
+		"DTIDE3": {
+			"lfd": "DT3BRIEF.LFD",
+			"crawl": null,
+			"others": [
+				"DTIDE3.LFD"
+			],
+			"name": "Dark Tide, The: Episode 3 - Eye of the Empire"
+		},
+		"DTIDE4": {
+			"lfd": "DTIDE4.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Dark Tide, The: Episode 4 - Empire"
+		},
+		"EASTER": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Easter Attack"
+		},
+		"ELEVTRIG": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Elevator Trigger Demo"
+		},
+		"ENERGY": {
+			"lfd": "ENERGY.LFD",
+			"crawl": "ENERGY2.LFD",
+			"others": [],
+			"name": "Energy"
+		},
+		"ESCAPE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [
+				"CUTSCENE.LST",
+				"BRIEFING.LST",
+				"WAIT.BM",
+				"WAIT.PAL",
+				"HOTH.LFD"
+			],
+			"name": "Escape from Hoth"
+		},
+		"EVAC": {
+			"lfd": "EVAC.LFD",
+			"crawl": "EVAC.LFD",
+			"others": [],
+			"name": "Evacuation of Hoth, The"
+		},
+		"EXAR": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Exarvutor, The"
+		},
+		"EXECUTE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Execution, The"
+		},
+		"FREEZE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Freeze!"
+		},
+		"FOLLOW": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Follow Me!"
+		},
+		"FOLLOWME": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Follow Me Too!"
+		},
+		"FORTQUAD": {
+			"lfd": "FORTQUAD.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Fortress Quadrigon"
+		},
+		"FREEKELL": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Free Kelly"
+		},
+		"FTHRAWN": {
+			"lfd": null,
+			"crawl": null,
+			"others": [
+				"FTHRAWN.LFD"
+			],
+			"name": "Fall of Thrawn, The"
+		},
+		"FUTURE1": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Future Present Part 1/3"
+		},
+		"FUTURE2": {
+			"lfd": "FUTURE2.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Future Present Part 2/3"
+		},
+		"GARDEN": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Seasons Changing Fast!"
+		},
+		"GOLDEN": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Goldeneye TC"
+		},
+		"GREATESC": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Great Escape, The"
+		},
+		"GSENTRY": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Geoffrey Simpson's One Room Wonder"
+		},
+		"HARKOV": {
+			"lfd": "HARKOV.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Prelude to Harkov's Defection"
+		},
+		"HOERBY3": {
+			"lfd": "HOERBY3.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Hoerby Trilogy"
+		},
+		"HOTEL": {
+			"lfd": "HOTEL.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Lahara Hotel"
+		},
+		"ICEWLD20": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Ice World 2.0"
+		},
+		"INFIL-LB": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Infiltrate Laboratory"
+		},
+		"INFTIPZ": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "INF Tipz"
+		},
+		"INTRUDER": {
+			"lfd": "INTRUDER.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Intruder"
+		},
+		"IOUTPOST": {
+			"lfd": "IOUTPOST.LFD",
+			"crawl": "IOUTTXCR.LFD",
+			"others": [],
+			"name": "Critak Moon: The Imperial Outpost"
+		},
+		"IRONFORT": {
+			"lfd": "IRONFORT.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Discovery at Ironfort"
+		},
+		"JEFFBASE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Jeff 42's Secret Base Remake"
+		},
+		"JUNGLES": {
+			"lfd": "CALD_BRF.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Jungles of Cauldoun"
+		},
+		"KEYAN": {
+			"lfd": "KEYANBRF.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Farlander's First Mission"
+		},
+		"KILVADER": {
+			"lfd": "KILVADER.LFD",
+			"crawl": null,
+			"others": [
+				"GROMAS1.GMD",
+				"GROMAS2.GMD",
+				"ROBOT1.GMD",
+				"ROBOT2.GMD",
+				"CLOSCRED.GMD",
+				"VADCUT.LFD",
+				"CUTSCENE.LST"
+			],
+			"name": "Assassinate Darth Vader"
+		},
+		"LEVEL1": {
+			"lfd": null,
+			"crawl": null,
+			"others": [
+				"JEDI.LVL",
+				"TEXT.MSG"
+			],
+			"name": "Jedi Crystal Level 1"
+		},
+		"LIBRARY": {
+			"lfd": "LIBRARY.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Library, The"
+		},
+		"MANTELL": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Ord Mantell (Unfinished)"
+		},
+		"MORPH": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Morph Me Up"
+		},
+		"MOUNT": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Mountains of Relion, The"
+		},
+		"MTKUREK": {
+			"lfd": "KUREK.LFD",
+			"crawl": "KUREKTXT.LFD",
+			"others": [],
+			"name": "Second Clone War I, The: Mt. Kurek"
+		},
+		"NABCORE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Naboo Reactor Core"
+		},
+		"NERV": {
+			"lfd": "NERV.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Operation Nervous Breakdown v1.1"
+		},
+		"NEWBOSS": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "New Boss"
+		},
+		"NIGHT": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Kyle's Nightmare"
+		},
+		"NITEHAWK": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Operation Nitehawk"
+		},
+		"NOSHOOT": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "No Shooting"
+		},
+		"NTK_SB": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Nottheking's Secret Base Remake"
+		},
+		"OPEN": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Open Project - 2003/08/17"
+		},
+		"OPZEROX": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Operation: Zero X"
+		},
+		"ORRETURN": {
+			"lfd": "ORRETURN.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Omega Red: The Return"
+		},
+		"ORW": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "One Room Wonders - Freefall"
+		},
+		"OUTBASE": {
+			"lfd": "OUTBASE.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "OutBase"
+		},
+		"OVARID": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Raid on the Ovarid"
+		},
+		"PALACE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Dark Tide, The: Beyond the Ancient Mod - Unedited Xizor's Palace"
+		},
+		"PARUX": {
+			"lfd": "PARUX.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Energy Mine on Parux"
+		},
+		"PERPLEX": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Perplexion"
+		},
+		"PLAYER": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Multiple Players"
+		},
+		"PROPHECY": {
+			"lfd": "PROPHECY.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Prophecy"
+		},
+		"RELIC": {
+			"lfd": "RELIC.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Relics of the Empire"
+		},
+		"REUNION": {
+			"lfd": "REUNION.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Reunion"
+		},
+		"REUNION2": {
+			"lfd": "REUNION2.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Reunion2"
+		},
+		"REVISED": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Revised"
+		},
+		"ROCK": {
+			"lfd": "ROCK.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Rock, The: Episode I - Gandolo IV"
+		},
+		"RUINS": {
+			"lfd": "RUINSBRF.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Ruins of Talos"
+		},
+		"RYAN": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Coruscant - The Imperial Capital"
+		},
+		"SECBASE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Barry Brien's Secret Base Remake"
+		},
+		"SECREV01": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Secbase Revisited"
+		},
+		"SENSATIO": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Sensation"
+		},
+		"SHOWDOWN": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Dark Trooper Showdown"
+		},
+		"SKI": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Ski Attack"
+		},
+		"SKYPOD": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Dark Tide, The: Beyond the Ancient Mod - SKYPOD"
+		},
+		"SPACE": {
+			"lfd": "SPACE.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Imperial Spacestation B-24"
+		},
+		"SPACSTAT": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Space Station"
+		},
+		"STARDEST": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Operation Star Destroyer"
+		},
+		"STARSEND": {
+			"lfd": "STARSEND.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Star's End - The Cloak"
+		},
+		"STRANGE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Strange"
+		},
+		"STRETCH": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Manipulating Textures with INF"
+		},
+		"TANIS": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Outpost Tanis Van"
+		},
+		"TBFACTOR": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Beelzebub Factor, The (Unfinished)"
+		},
+		"TERMINAT": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Terminate Boba Fett"
+		},
+		"TESTLEVL": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Test Level"
+		},
+		"THECLUB": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Dark Tide, The: Beyond the Ancient Mod - Coruscant Club"
+		},
+		"TMOTMW": {
+			"lfd": "TMOTMW.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Mystery of the Morning Wood, The"
+		},
+		"TREE": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Tree, The"
+		},
+		"TRITON": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Triton Spaceport"
+		},
+		"TUTOR001": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Tutorial Level"
+		},
+		"TWRDOOM": {
+			"lfd": "TWRDOOM.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "The Tower of Doom"
+		},
+		"UNDER": {
+			"lfd": "UNDER.LFD",
+			"crawl": "UNDERTXT.LFD",
+			"others": [],
+			"name": "Under Fire"
+		},
+		"VUE-TEST": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Moving Turrets"
+		},
+		"WASTE": {
+			"lfd": "WASTE.LFD",
+			"crawl": null,
+			"others": [],
+			"name": "Waste"
+		},
+		"WATCH": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Watch This!"
+		},
+		"WATRHUNT": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Great Tatooine Water Hunt, The"
+		},
+		"WILLOT": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Rescue Willot"
+		},
+		"XIZORS": {
+			"lfd": null,
+			"crawl": null,
+			"others": [],
+			"name": "Dark Tide, The: Beyond the Ancient Mod - Xizor's Palace"
+		},
+		"YAVIN": {
+			"lfd": "YAVIN1.LFD",
+			"crawl": null,
+			"others": [
+				"YAVIN2.LFD"
+			],
+			"name": "Back to Yavin"
+		}
+	},
+	"jediKnight": {},
+	"mysteriesOfTheSith": {},
+	"jediOutcast": {},
+	"jediAcademy": {}
+}

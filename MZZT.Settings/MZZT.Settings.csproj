@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<LangVersion>latest</LangVersion>
+		<UseWindowsForms>true</UseWindowsForms>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<Compile Update="SettingsPanel.cs">
+			<SubType>Component</SubType>
+		</Compile>
+		<Compile Update="SettingUserControl.cs">
+			<SubType>UserControl</SubType>
+		</Compile>
+		<Compile Update="TextSettingControl.cs">
+			<SubType>UserControl</SubType>
+		</Compile>
+		<Compile Update="TextSettingControl.Designer.cs">
+			<DependentUpon>TextSettingControl.cs</DependentUpon>
+		</Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Update="TextSettingControl.resx">
+			<DependentUpon>TextSettingControl.cs</DependentUpon>
+		</EmbeddedResource>
+	</ItemGroup>
+
+</Project>

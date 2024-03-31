@@ -1,0 +1,58 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MZZT</RootNamespace>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+	<PropertyGroup>
+		<StartupObject>MZZT.Knight.Program</StartupObject>
+	</PropertyGroup>
+	<PropertyGroup>
+		<ApplicationIcon>Resources\Knight.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Knight\Forms\CollapsibleGameListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Knight\Forms\GameListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Knight\Forms\GameToolStrip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\BuildDate.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MZZT.About\MZZT.About.csproj" />
+    <ProjectReference Include="..\MZZT.Drawing\MZZT.Drawing.csproj" />
+    <ProjectReference Include="..\MZZT.FileFormats.Ini\MZZT.FileFormats.Ini.csproj" />
+    <ProjectReference Include="..\MZZT.Input.ProgramArguments\MZZT.Input.ProgramArguments.csproj" />
+    <ProjectReference Include="..\MZZT.Input\MZZT.Input.csproj" />
+    <ProjectReference Include="..\MZZT.JediKnight.FileFormats\MZZT.JediKnight.FileFormats.csproj" />
+    <ProjectReference Include="..\MZZT.Settings\MZZT.Settings.csproj" />
+    <ProjectReference Include="..\MZZT.Steam\MZZT.Steam.csproj" />
+    <ProjectReference Include="..\MZZT.Updates\MZZT.Updates.csproj" />
+    <ProjectReference Include="..\MZZT.WinApi\MZZT.WinApi.csproj" />
+    <ProjectReference Include="..\MZZT.Windows\MZZT.Windows.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Target Name="PreBuild" BeforeTargets="PreBuildEvent">
+    <Exec Command="powershell -ExecutionPolicy RemoteSigned -File &quot;$(ProjectDir)Properties\PreBuild.ps1&quot;" />
+  </Target>
+</Project>

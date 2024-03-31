@@ -1,0 +1,44 @@
+{
+	"patches": {
+		"jk.1.0.exe": {
+			"name": "Jedi Knight 1.0",
+			"size": 1387520,
+			"hash": "TlbtpHsfy2f5gsPMcI3L0D0HfMc="
+		},
+		"jk.1.01.exe": {
+			"name": "Jedi Knight 1.01",
+			"size": 1388544,
+			"hash": "FQQhLmG12LOyhexbPwfX2G87k44="
+		},
+		"jk.Steam.exe": {
+			"name": "Jedi Knight (Steam)",
+			"size": 1789376,
+			"hash": "KUbkITPQ2aakbu9QHVxIu0pOb5k="
+		},
+		"jk.Unofficial.Patch.2008.01.16.exe": {
+			"name": "Jedi Knight Unofficial Patch 2008-01-16",
+			"size": 1393408,
+			"hash": "fQCQi115YK/Kj54TbE90m4WHP4A="
+		},
+		"jkm.1.0.exe": {
+			"name": "Mysteries of the Sith",
+			"size": 1759744,
+			"hash": "+SaS3bs8gFfrfgcC3dj+XWKdzDw="
+		},
+		"jkm.Cracked.exe": {
+			"name": "Mysteries of the Sith (Cracked)",
+			"size": 1759744,
+			"hash": "48fr28wdfX6U5Nd+PemWg0hnZhA="
+		},
+		"jkm.Steam.exe": {
+			"name": "Mysteries of the Sith (Steam)",
+			"size": 1889936,
+			"hash": "gKaSV2vFYP67Ku5T7hybor0nAmg="
+		},
+		"jkm.Unofficial.Patch.2008.06.28.exe": {
+			"name": "Mysteries of the Sith Unofficial Patch 2008-06-28",
+			"size": 1759744,
+			"hash": "SArUs/MVoCdXHx2Er+Y2x5HAD7I="
+		}
+	}
+}

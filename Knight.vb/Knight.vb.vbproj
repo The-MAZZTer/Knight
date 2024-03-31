@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1CAE76EC-BB96-4149-AEC0-17639F78A26E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>
+    </RootNamespace>
+    <AssemblyName>Knight</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>Resources\Knight.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Knight.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Knight.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.5.452, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\SharpZipLib_0855_Bin\net-20\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Games\HashList.vb" />
+    <Compile Include="Games\ModInfoCache.vb" />
+    <Compile Include="UI\CollapsibleModList.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UI\EventControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UI\fDarkForcesModOptions.Designer.vb">
+      <DependentUpon>fDarkForcesModOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fDarkForcesModOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fDarkForcesOptions.Designer.vb">
+      <DependentUpon>fDarkForcesOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fDarkForcesOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fDirectPlay.Designer.vb">
+      <DependentUpon>fDirectPlay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fDirectPlay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fJediKnightOptions.Designer.vb">
+      <DependentUpon>fJediKnightOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fJediKnightOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fJOJAModOptions.Designer.vb">
+      <DependentUpon>fJOJAModOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fJOJAModOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fJOJAOptions.Designer.vb">
+      <DependentUpon>fJOJAOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fJOJAOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fKnight.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fKnight.Designer.vb">
+      <DependentUpon>fKnight.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fMysteriesOfTheSithOptions.Designer.vb">
+      <DependentUpon>fMysteriesOfTheSithOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fMysteriesOfTheSithOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\fProgress.Designer.vb">
+      <DependentUpon>fProgress.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\fProgress.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\GameHeader.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Games\Gob.vb" />
+    <Compile Include="KnightOptions.vb" />
+    <Compile Include="Games\Mods.vb" />
+    <Compile Include="UI\ModList.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Options.vb" />
+    <Compile Include="Knight.vb" />
+    <Compile Include="Games\SteamHelper.vb" />
+    <Compile Include="UI\Notification.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ucNowLater.Designer.vb">
+      <DependentUpon>ucNowLater.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ucNowLater.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\ucUpload.designer.vb">
+      <DependentUpon>ucUpload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ucUpload.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Updater.vb" />
+    <Compile Include="WinAPI.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="UI\fDarkForcesModOptions.resx">
+      <DependentUpon>fDarkForcesModOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fDarkForcesOptions.resx">
+      <DependentUpon>fDarkForcesOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fDirectPlay.resx">
+      <DependentUpon>fDirectPlay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fJediKnightOptions.resx">
+      <DependentUpon>fJediKnightOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fJOJAModOptions.resx">
+      <DependentUpon>fJOJAModOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fJOJAOptions.resx">
+      <DependentUpon>fJOJAOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fKnight.resx">
+      <DependentUpon>fKnight.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fMysteriesOfTheSithOptions.resx">
+      <DependentUpon>fMysteriesOfTheSithOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\fProgress.resx">
+      <DependentUpon>fProgress.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Notification.resx">
+      <DependentUpon>Notification.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ucNowLater.resx">
+      <DependentUpon>ucNowLater.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ucUpload.resx">
+      <DependentUpon>ucUpload.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bullet_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder_explore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\application_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group_go.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\world_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\massassi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\site_df21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cross.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comments.png" />
+    <None Include="Resources\email_link.png" />
+    <None Include="Resources\game_mots_32.png" />
+    <None Include="Resources\game_df_32.png" />
+    <None Include="Resources\game_ja_16.png" />
+    <None Include="Resources\game_ja_32.png" />
+    <None Include="Resources\game_jk_32.png" />
+    <None Include="Resources\game_jo_16.png" />
+    <None Include="Resources\game_jo_32.png" />
+    <None Include="Resources\options_defaults.xml" />
+    <None Include="Resources\game_mots_16.png" />
+    <None Include="Resources\game_df_16.png" />
+    <None Include="Resources\game_jk_16.png" />
+    <None Include="Resources\hourglass.ico" />
+    <None Include="Resources\cog.png" />
+    <None Include="Resources\application_put.png" />
+    <None Include="Resources\application.png" />
+    <None Include="Resources\door_in.png" />
+    <None Include="Resources\controller.png" />
+    <None Include="Resources\disk.png" />
+    <None Include="Resources\hashlist_defaults.xml" />
+    <None Include="Resources\application_view_list.png" />
+    <None Include="Resources\application_view_icons.png" />
+    <None Include="Resources\application_lightning.png" />
+    <None Include="Resources\application_form_edit.png" />
+    <Content Include="knight.xml" />
+    <None Include="Resources\exclamation.png" />
+    <None Include="Resources\application_split.png" />
+    <None Include="Resources\clock.png" />
+    <Content Include="Resources\Knight.ico" />
+    <Content Include="Resources\site_jkhub.png" />
+    <None Include="Resources\world.png" />
+    <None Include="Resources\shield.png" />
+    <None Include="Resources\music.png" />
+    <None Include="Resources\textfield_rename.png" />
+    <None Include="Resources\stop.png" />
+    <None Include="Resources\modinfocache_defaults.xml" />
+    <None Include="Resources\resultset_next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

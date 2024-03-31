@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="mzzt:knight:options">
+  <option name="BigIconsSize_Height" xmlns="mzzt:options">
+    <value xsi:type="xsd:int">91</value>
+  </option>
+  <option name="BigIconsSize_Width" xmlns="mzzt:options">
+    <value xsi:type="xsd:int">91</value>
+  </option>
+  <option name="DarkForcesAutoTest" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="DarkForcesCDDrive" xmlns="mzzt:options">
+    <value xmlns:q1="http://microsoft.com/wsdl/types/" xsi:type="q1:char">0</value>
+  </option>
+  <option name="DarkForcesDarkXLPath" xmlns="mzzt:options" />
+  <option name="DarkForcesDOSBoxPath" xmlns="mzzt:options" />
+  <option name="DarkForcesEnabled" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="DarkForcesEnableScreenshots" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">true</value>
+  </option>
+  <option name="DarkForcesLevelSelect" xmlns="mzzt:options" />
+  <option name="DarkForcesLog" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="DarkForcesModPath" xmlns="mzzt:options" />
+  <option name="DarkForcesPath" xmlns="mzzt:options" />
+  <option name="DarkForcesRunMode" xmlns="mzzt:options">
+    <value xsi:type="xsd:unsignedByte">0</value>
+  </option>
+  <option name="DarkForcesSkipCutscenes" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="DarkForcesSkipFILESCheck" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="DarkForcesSkipMemoryCheck" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="ExpandedGame" xmlns="mzzt:options">
+    <value xsi:type="xsd:integer">-1</value>
+  </option>
+  <option name="FirstRun" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">true</value>
+  </option>
+  <option name="JediAcademyCommands" xmlns="mzzt:options" />
+  <option name="JediAcademyEnabled" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="JediAcademyPath" xmlns="mzzt:options" />
+  <option name="JediKnightActiveModPath" xmlns="mzzt:options" />
+  <option name="JediKnightAdvancedDisplayOptions" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">true</value>
+  </option>
+  <option name="JediKnightAllowMultipleInstances" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">true</value>
+  </option>
+  <option name="JediKnightConsole" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="JediKnightConsoleStats" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="JediKnightEnabled" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="JediKnightEnableJKUPCogVerbs" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">true</value>
+  </option>
+  <option name="JediKnightFramerate" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="JediKnightLog" xmlns="mzzt:options">
+    <value xsi:type="xsd:unsignedByte">0</value>
+  </option>
+  <option name="JediKnightModPath" xmlns="mzzt:options" />
+  <option name="JediKnightNoHUD" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="JediKnightPatchPath" xmlns="mzzt:options" />
+  <option name="JediKnightPath" xmlns="mzzt:options" />
+  <option name="JediKnightVerbosity" xmlns="mzzt:options">
+    <value xsi:type="xsd:byte">-1</value>
+  </option>
+  <option name="JediKnightWindowedGUI" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">true</value>
+  </option>
+  <option name="JediOutcastCommands" xmlns="mzzt:options" />
+  <option name="JediOutcastEnabled" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="JediOutcastPath" xmlns="mzzt:options" />
+  <option name="MysteriesOfTheSithActiveModPath" xmlns="mzzt:options" />
+  <option name="MysteriesOfTheSithAdvancedDisplayOptions" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">true</value>
+  </option>
+  <option name="MysteriesOfTheSithAllowMultipleInstances" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">true</value>
+  </option>
+  <option name="MysteriesOfTheSithCogLog" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="MysteriesOfTheSithConsole" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="MysteriesOfTheSithConsoleStats" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="MysteriesOfTheSithEnabled" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="MysteriesOfTheSithFramerate" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="MysteriesOfTheSithLog" xmlns="mzzt:options">
+    <value xsi:type="xsd:unsignedByte">0</value>
+  </option>
+  <option name="MysteriesOfTheSithModPath" xmlns="mzzt:options" />
+  <option name="MysteriesOfTheSithNoHUD" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="MysteriesOfTheSithPatchPath" xmlns="mzzt:options" />
+  <option name="MysteriesOfTheSithPath" xmlns="mzzt:options" />
+  <option name="MysteriesOfTheSithRecord" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="MysteriesOfTheSithResLog" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="MysteriesOfTheSithSpeedUp" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="MysteriesOfTheSithVerbosity" xmlns="mzzt:options">
+    <value xsi:type="xsd:byte">-1</value>
+  </option>
+  <option name="MysteriesOfTheSithWindowedGUI" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">true</value>
+  </option>
+  <option name="OnRunAction" xmlns="mzzt:options">
+    <value xsi:type="xsd:unsignedByte">2</value>
+  </option>
+  <option name="SimpleList" xmlns="mzzt:options">
+    <value xsi:type="xsd:boolean">false</value>
+  </option>
+  <option name="Size_Height" xmlns="mzzt:options">
+    <value xsi:type="xsd:int">450</value>
+  </option>
+  <option name="Size_Width" xmlns="mzzt:options">
+    <value xsi:type="xsd:int">300</value>
+  </option>
+  <option name="View" xmlns="mzzt:options">
+    <value xsi:type="xsd:int">1</value>
+  </option>
+</options>

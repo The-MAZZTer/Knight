@@ -1,0 +1,87 @@
+1.0.0.0
+- Upgraded to .NET 8.
+  + Bundle .NET 8 with Knight self-contained.
+- Split MZZT library to avoid pulling in most unneeded components.
+- Reuse code from DarkForcesShowcase including newer MZZT.FileFormats.Base and Steam library detection.
+- "Apply Changes Now" changed to "Apply Mods Now" for clarity. Still confusing.
+- Fixed changing to large icon view not working in some cases, or not synchronizing properly.
+- Fixed changing some settings not saving.
+- Update links to online resources.
+- Replaced some libraries with equivilent .NET classes.
+  - Removed SharpZipLib
+  - Removed MZZT.Text.Json
+  - Removed Microsoft.WindowsApiCodePack.*
+- Auto locate games not working for alternate Steam Library folders (library list file format changed).
+- Display error messagebox when unable to find Dark Forces or its tools rather than throwing an error.
+- Workaround DOSBox config settings possibly breaking mount of Dark Forces folder.
+- Fixed Dark Forces mods being detected as active even if they aren't.
++ Added support for DOSBox forks like DOSBox-X.
++ Added support for Dark Forces Remastered.
+- Fixed "Locate game" option not auto refreshing mod list.
+- Replaced icons with Google Material Symbols.
+- Migrated all references to personal website to GitHub (such as update ping).
+
+1.0 Beta 2 release 6 - Not released
+- Removed a bit of debug output left in by accident.
+- Fixed a bug in the notification dialogs and made them use the system fade/slide
+  settings.
+- Fixed options file being written constantly when window was being moved.  This
+  resulted in huge slowdown when AV products are in use slowing down the application as
+  it writes to disk.
+- Made some changes to the update dialog.  It will now check for and download updates
+  regardless of whether or not you are "busy" with the app.  However when it goes to
+  apply the update, it will ask you first, and will not allow updates to be applied
+  if the program is doing something that shouldn't be interrupted.  If the program is
+  busy, the update will be deferred until you restart the program.  You will also be
+  notified when a successful update has occurred.
+- Fixed DarkXL path selection never finding DarkXL.
+- Switched to .NET 4.0.
+- Fixed update dialog crashing Knight on 64-bit systems.
+- Fixed a bug where settings wouldn't be written to disk if the directory did not exist
+  (eg you changed the install location).
+- Fixed a bug where a disabled game could be expanded in the list on startup.
+- Fixed a bug where, if a game had an invalid path on startup, selecting a valid path
+  would cause the UI to glitch and show the game as partly disabled and enabled.
+- Fixed Jedi Knight Options dialog blowing up on saving settings if you don't select
+  a path for patches.
+- Adding missing license notice for #ZipLib.
+- Removed known bug about weird icon view... not an issue with modern Windows.
+- Updated installer to detect missing .NET 4 instead of 2.
+
+1.0 Beta release 5 - 10/21/09
+- Added additional debug information to crash dialogs.
++ Rewrote updater to be separate from the program for easier portability.
+  + Main program is now disabled while updater is running.
+  + Updater will now no longer automatically fire when you are actively using Knight.
+- Fixed bug where a mod's long file name would get passed to Dark Forces.
+- Main window can no longer open off-screen.  If invalid values are saved to options or
+  you change your screen resolution or monitor setup so that Knight's saved position is
+  no longer valid, the window position will reset.
+- Reworked the "Working" dialog backend.
+
+1.0 Beta release 4 - 10/06/09
+- Possibly fixed a race condition bug where hashes were being computed incorrectly,
+  causing known patches to show up as "Unknown Patch" and occasionally unnecessary
+  backup copies made.
+- Fixed bug where unknown patch hashes were not being saved.  This could have resulted
+  in unneccessary backup copies being made every rescan.
+
+1.0 Beta release 3 - 10/05/09
++ Added more detailed crash dialog to help resolve crashes.
+- Fixed crash when mod or active mod paths changed to defaults.
+- Fixed crash when scanning for patches and the current jk/jkm.exe is not a recognised
+  patch.
+- Fixed typo in MotS "Select Mods Folder" dialog.
+- Reworded DirectPlay dialog to make it clearer.
+- Added keyboard shortcuts to two MotS options that were missing them.
++ Added ability to specify custom paths for patches.  By default patches will be scanned
+  in Jedi Knight\patches and Mysteries of the Sith\patches
++ New "Unknown Patch"es will now show the filename of the patch for easier
+  identification.
+
+1.0 Beta release 2 - 10/04/09
+- Fixed a bug where Knight would crash on startup if it couldn't detect all
+  games.
+
+1.0 Beta release 1 - 10/04/09
++ Initial Release

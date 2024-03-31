@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hashes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" algorithm="System.Security.Cryptography.SHA1Managed" xmlns="mzzt:hashlist">
+  <hash datasize="1387520" filename="jk.1.0.exe" id="jk100" name="Jedi Knight 1.0">TlbtpHsfy2f5gsPMcI3L0D0HfMc=</hash>
+  <hash datasize="1388544" filename="jk.1.01.exe" id="jk101" name="Jedi Knight 1.01">FQQhLmG12LOyhexbPwfX2G87k44=</hash>
+  <hash datasize="1737728" filename="jk.Steam.exe" id="jksteam" name="Jedi Knight (Steam)">3WErobrDNXIKykvAUPZzgFI+3SE=</hash>
+  <hash datasize="1393408" filename="jk.Unofficial.Patch.2008.01.16.exe" id="jkup20080116" name="Jedi Knight Unofficial Patch 2008-01-16">fQCQi115YK/Kj54TbE90m4WHP4A=</hash>
+  <hash datasize="1759744" filename="jkm.1.0.exe" id="jkm100" name="Mysteries of the Sith">+SaS3bs8gFfrfgcC3dj+XWKdzDw=</hash>
+  <hash datasize="2108928" filename="jkm.Steam.exe" id="jkmsteam" name="Mysteries of the Sith (Steam)">CGxQ6Nbd2LWas/p9JU6xynblV64=</hash>
+  <hash datasize="1759744" filename="jkm.Unofficial.Patch.2008.06.28.exe" id="jkmup20080628" name="Mysteries of the Sith Unofficial Patch 2008-06-28">SArUs/MVoCdXHx2Er+Y2x5HAD7I=</hash>
+</hashes>
