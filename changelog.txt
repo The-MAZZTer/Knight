@@ -1,4 +1,7 @@
-1.0.0.0
+1.0.1.0 - 3/31/2024
+- Fixed updater not working.
+
+1.0.0.0 - 3/31/2024
 - Upgraded to .NET 8.
   + Bundle .NET 8 with Knight self-contained.
 - Split MZZT library to avoid pulling in most unneeded components.

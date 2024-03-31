@@ -5,7 +5,7 @@ SetDatablockOptimize On
 RequestExecutionLevel highest
 
 !define NAME "Knight"
-!define VERSION "1.0.0"
+!define VERSION "1.0.1"
 !define DESC "A mod and patch manager for the Dark Forces/Jedi Knight series of games."
 !define AUTHOR "The MAZZTer"
 !define WEBSITE "https://github.com/The-MAZZTer/Knight"

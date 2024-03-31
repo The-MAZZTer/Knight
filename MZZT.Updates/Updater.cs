@@ -5,7 +5,7 @@ using System.Text.Json.Serialization;
 
 namespace MZZT.Updates {
 	public class Updater {
-		private Updater() { }
+		public Updater() { }
 
 		public Updater(Uri uri, Assembly assembly = null) {
 			this.updateUri = uri;
@@ -57,6 +57,8 @@ namespace MZZT.Updates {
 			using (MemoryStream stream = new()) {
 				await this.Download(this.updateUri, stream);
 
+				stream.Position = 0;
+
 				update = await JsonSerializer.DeserializeAsync<Updater>(stream);
 			}
 			this.DownloadUri = update.DownloadUri;
@@ -91,10 +93,10 @@ namespace MZZT.Updates {
 		}
 
 		[JsonPropertyName("version")]
-		public Version LatestVersion { get; private set; }
+		public Version LatestVersion { get; set; }
 
 		[JsonPropertyName("uri")]
-		public Uri DownloadUri { get; private set; }
+		public Uri DownloadUri { get; set; }
 
 		[JsonIgnore]
 		private readonly Uri updateUri;
@@ -166,7 +168,7 @@ namespace MZZT.Updates {
 			_ = this.DownloadUpdateAsync(allowAutoInstall);
 		}
 
-		public static bool ExitingforUpdate { get; private set; }
+		public static bool ExitingForUpdate { get; private set; }
 
 		public static string AppDirectory { get; set; } = Path.GetDirectoryName(Application.ExecutablePath);
 
@@ -178,7 +180,7 @@ namespace MZZT.Updates {
 			string restartText = restart ? " /restart" : "";
 			Process.Start(this.DownloadLocation,
 				$"/update=\"{AppDirectory}\"{restartText}");
-			ExitingforUpdate = true;
+			ExitingForUpdate = true;
 			Application.Exit();
 		}
 	}

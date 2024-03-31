@@ -114,16 +114,18 @@ namespace MZZT.Knight {
 			}
 			Glyphs = new(fonts.Families[0]);
 
-			Updater = new UpdateForm(new Uri(UPDATE_URL)) {
-				Icon = Resources.Knight
-			};
-
 			/*FontGlyphRenderer renderer = new(MaterialIcons);
 			foreach (int i in new int[] { 16, 24, 32, 48, 64, 128, 256 }) {
 				renderer.DrawBitmapGlyph(new Size(i, i), ["shield", "swords"], [Color.Orange, Color.Gold], i, GraphicsUnit.Pixel).Save($@"C:\Users\mzzt\OneDrive\Desktop\knight-{i}.png", ImageFormat.Png);
 			}*/
 
-			Thread thread = new(() => Application.Run(new MainForm()));
+			Thread thread = new(() => {
+				Updater = new UpdateForm(new Uri(UPDATE_URL)) {
+					Icon = Resources.Knight
+				};
+
+				Application.Run(new MainForm());
+			});
 			thread.SetApartmentState(ApartmentState.STA);
 			thread.Start();
 			thread.Join();
